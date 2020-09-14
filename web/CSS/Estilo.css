@@ -1,0 +1,143 @@
+ body{
+        
+        background-image:url(https://userscontent2.emaze.com/images/b156286a-5669-471f-9f9b-89e05855dea0/3f4c5fe362e8c667868a3dfd40507ba9.png);
+        
+    }
+   header{
+        border: 10px;
+        font-size:60px;
+        color: black;
+        font-family: 'Comic Sans';
+
+    }
+    table th {
+        text-align: left;
+        padding: 0.3em;
+        color: black;
+        background: #fff;
+        font-family: 'Comic Sans';
+    }
+
+    span{
+        margin-right: 10px;
+        font-size: 30px;
+        
+
+    }
+    span1{
+        font-size: 30px;
+        color:#52a552;
+    }
+    span2{
+        font-size: 40px;
+        color: #0000cc;
+    }
+    span3{
+        font-size: 40px;
+        color: #cc3300;
+    }
+    span4{
+        font-size: 40px;
+        color:  #3399ff;
+    }
+    span5{
+        font-size: 40px;
+        color: black;
+    }
+    span7{
+        font-size: 38px;
+       
+    }
+    pre{
+        font-family: "Comic Sans";
+        color:black;
+    }
+    
+    h3{
+        font-family: "Comic Sans";   
+        color: green;
+        font-size: 30px;
+        
+    }
+    p{
+        font-family: "Comic Sans";
+        color: black;
+        
+    }
+    h1{
+        font-family: "Comic Sans";
+        color:black;
+        border: 10px;
+        font-size:60px;
+        animation-duration: 3s;
+        animation-name: slidein;
+       
+    }
+    @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%
+    }
+
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+    }
+    h2{
+        font-family: "Comic Sans";
+        color:green;
+    }
+    h4{
+        font-family: italic;
+        color:black;
+    }
+    
+    footer{
+        font-family: "Comic Sans";
+        color:white;
+        background: #52a552;
+    }
+    h8{
+        color:white;
+        font-family: "Courier New", Courier, monospace;
+        border: 10px;
+        font-size:55px;
+        
+    }
+    
+    #mainNav {
+    
+    font-weight: 10px;
+    background: #52a552;  
+    font-family: "Comic Sans";
+  }
+  #login {
+        position:absolute;
+        left: 49%;
+        
+        
+    }
+    a{
+        color:#fff;
+        font-family: italic;
+        font-size: 40px;
+    }
+    lista{
+      list-style-position: inside;
+        
+    }
+    h9{
+       
+        font-size: 50px;
+        color:#52a552;
+        font-family: "Comic Sans";
+        
+    }
+    h7{
+        font-size: 40px;
+        color:black;
+        font-family: "Comic Sans";
+        
+    }
+ 
